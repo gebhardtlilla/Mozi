@@ -1,0 +1,7 @@
+H:\12\Mozi\Miénk\Mozi\Mozi\bin\Debug\Mozi.exe.config
+H:\12\Mozi\Miénk\Mozi\Mozi\bin\Debug\Mozi.exe
+H:\12\Mozi\Miénk\Mozi\Mozi\bin\Debug\Mozi.pdb
+H:\12\Mozi\Miénk\Mozi\Mozi\obj\Debug\Mozi.csproj.AssemblyReference.cache
+H:\12\Mozi\Miénk\Mozi\Mozi\obj\Debug\Mozi.csproj.CoreCompileInputs.cache
+H:\12\Mozi\Miénk\Mozi\Mozi\obj\Debug\Mozi.exe
+H:\12\Mozi\Miénk\Mozi\Mozi\obj\Debug\Mozi.pdb

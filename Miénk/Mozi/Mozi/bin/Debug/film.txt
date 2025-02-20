@@ -1,0 +1,20 @@
+Tenet; Tenet; Thriller; 150; 2020
+Láthatatlan ember; The Invisible Man; Horror; 124; 2020
+Ragadozó madarak; Birds of Prey; Akció; 109; 2020
+A szerelem illata; The Secret: Dare to Dream; Dráma; 107; 2020
+Előre; Onward; Animáció; 102; 2020
+Az új mutánsok; The New Mutants; Horror; 94; 2020
+Palm Springs; Palm Springs; Vígjáték; 90; 2020
+A vadon hívó szava; The Call of the Wild; Kaland; 100; 2020
+Karanténmeló; Locked Down; Vígjáték; 118; 2021
+Démoni; Demonic; Horror; 104; 2021
+Wonder Woman 1984; Wonder Woman 1984; Akció; 151; 2020
+Fekete Özvegy; Black Widow; Akció; 134; 2021
+Halálos iramban 9; F9: The Fast Saga; Akció; 143; 2021
+Dűne; Dune; Dráma; 155; 2021
+A csendes hely 2; A Quiet Place Part II; Horror; 97; 2021
+Space Jam: Új kezdet; Space Jam: A New Legacy; Animáció; 115; 2021
+Örökkévalók; Eternals; Dráma; 156; 2021
+Nincs idő meghalni; No Time to Die; Akció; 163; 2021
+Pókember: Nincs hazaút; Spider-Man: No Way Home; Akció; 148; 2021
+Mátrix: Feltámadások; The Matrix Resurrections; Sci-Fi; 148; 2021

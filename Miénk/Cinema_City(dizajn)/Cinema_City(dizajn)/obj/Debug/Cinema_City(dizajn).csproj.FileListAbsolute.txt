@@ -1,0 +1,10 @@
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\bin\Debug\Cinema_City(dizajn).exe.config
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\bin\Debug\Cinema_City(dizajn).exe
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\bin\Debug\Cinema_City(dizajn).pdb
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\obj\Debug\Cinema_City(dizajn).csproj.AssemblyReference.cache
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\obj\Debug\Cinema_City_dizajn_.Form1.resources
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\obj\Debug\Cinema_City_dizajn_.Properties.Resources.resources
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\obj\Debug\Cinema_City(dizajn).csproj.GenerateResource.cache
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\obj\Debug\Cinema_City(dizajn).csproj.CoreCompileInputs.cache
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\obj\Debug\Cinema_City(dizajn).exe
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\obj\Debug\Cinema_City(dizajn).pdb
