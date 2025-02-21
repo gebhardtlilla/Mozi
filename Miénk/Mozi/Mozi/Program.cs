@@ -39,5 +39,18 @@ namespace Mozi
             sr.Close();
 
         }
+
+        static void Fajlbeolvasasnap()
+        {
+            StreamReader sr = new StreamReader("napok.txt");
+            sr.ReadLine();
+            while (!sr.EndOfStream)
+            {
+                Filmek sv = new Filmek(sr.ReadLine());
+                filmek.Add(sv);
+            }
+            sr.Close();
+
+        }
     }
 }
