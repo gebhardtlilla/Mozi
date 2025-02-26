@@ -14,6 +14,7 @@ namespace Mozi
         static void Main(string[] args)
         {
             Fajlbeolvasas();
+           
             Fajlkiiratas();
 
             Console.ReadLine();
@@ -23,7 +24,7 @@ namespace Mozi
         {
             for (int i = 0; i < filmek.Count; i++)
             {
-                Console.WriteLine(filmek[i].magyarcim);
+                Console.WriteLine(filmek[i].ora);
             }
         }
 
@@ -52,5 +53,7 @@ namespace Mozi
             sr.Close();
 
         }
+
+        
     }
 }

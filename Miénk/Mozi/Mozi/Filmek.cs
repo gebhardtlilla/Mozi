@@ -9,7 +9,7 @@ namespace Mozi
     internal class Filmek
     {
         public string magyarcim, angolcim; //mufaj, mufaj2, mufaj3;
-        public int ido, kiadasev;
+        public int ido, kiadasev,ora, perc;
         List<string> mufajok = new List<string>();
 
         public Filmek(string sor)
@@ -19,8 +19,10 @@ namespace Mozi
             magyarcim = st[0];
             angolcim = st[1];
             mufajok = st[2].Split(',').ToList();
-            ido = Convert.ToInt32(st[5]);
-            kiadasev = Convert.ToInt32(st[6]);
+            ido = Convert.ToInt32(st[3]);
+            kiadasev = Convert.ToInt32(st[4]);
+            ora = ido / 60;
+            perc = ido % 60;
         }
     }
 }
