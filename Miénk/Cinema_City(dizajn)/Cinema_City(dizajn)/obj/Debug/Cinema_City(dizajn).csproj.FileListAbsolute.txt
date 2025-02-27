@@ -8,3 +8,7 @@ H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\obj\Debug\Cinema_City(
 H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\obj\Debug\Cinema_City(dizajn).csproj.CoreCompileInputs.cache
 H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\obj\Debug\Cinema_City(dizajn).exe
 H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\obj\Debug\Cinema_City(dizajn).pdb
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\bin\Debug\mozibeadando.exe
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\bin\Debug\mozibeadando.pdb
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\bin\Debug\mozibeadando.exe.config
+H:\12\Mozi\Miénk\Cinema_City(dizajn)\Cinema_City(dizajn)\obj\Debug\Cinema_C.09708C46.Up2Date
