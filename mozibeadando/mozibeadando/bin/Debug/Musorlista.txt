@@ -1,0 +1,65 @@
+Hétfő,09:00,10:30,Tenet,150
+Hétfő,10:30,11:34,A szerelem illata,107
+Hétfő,11:34,12:40,Előre,102
+Hétfő,12:40,13:22,Palm Springs,90
+Hétfő,13:22,14:26,Ragadozó madarak,109
+Hétfő,14:26,15:47,Fekete Özvegy,134
+Hétfő,15:47,17:24,Wonder Woman 1984,151
+Hétfő,17:24,19:07,Dűne,155
+Hétfő,19:07,20:00,Nincs idő meghalni,163
+/
+Kedd,09:00,10:30,Tenet,150
+Kedd,10:30,11:34,A szerelem illata,107
+Kedd,11:34,12:40,Előre,102
+Kedd,12:40,13:22,Palm Springs,90
+Kedd,13:22,14:26,Ragadozó madarak,109
+Kedd,14:26,15:47,Fekete Özvegy,134
+Kedd,15:47,17:24,Wonder Woman 1984,151
+Kedd,17:24,19:07,Dűne,155
+Kedd,19:07,20:00,Nincs idő meghalni,163
+/
+Szerda,09:00,10:30,Tenet,150
+Szerda,10:30,11:34,A szerelem illata,107
+Szerda,11:34,12:40,Előre,102
+Szerda,12:40,13:22,Palm Springs,90
+Szerda,13:22,14:26,Ragadozó madarak,109
+Szerda,14:26,15:47,Fekete Özvegy,134
+Szerda,15:47,17:24,Wonder Woman 1984,151
+Szerda,17:24,19:07,Dűne,155
+Szerda,19:07,20:00,Nincs idő meghalni,163
+/
+Csütörtök,09:00,10:30,Tenet,150
+Csütörtök,10:30,11:34,A szerelem illata,107
+Csütörtök,11:34,12:40,Előre,102
+Csütörtök,12:40,13:22,Palm Springs,90
+Csütörtök,13:22,14:26,Ragadozó madarak,109
+Csütörtök,14:26,15:47,Fekete Özvegy,134
+Csütörtök,15:47,17:24,Wonder Woman 1984,151
+Csütörtök,17:24,19:07,Dűne,155
+Csütörtök,19:07,20:00,Nincs idő meghalni,163
+/
+Péntek,09:00,10:30,Tenet,150
+Péntek,10:30,11:34,A szerelem illata,107
+Péntek,11:34,12:40,Előre,102
+Péntek,12:40,13:22,Palm Springs,90
+Péntek,13:22,14:26,Ragadozó madarak,109
+Péntek,14:26,15:47,Fekete Özvegy,134
+Péntek,15:47,17:24,Wonder Woman 1984,151
+Péntek,17:24,19:07,Dűne,155
+Péntek,19:07,21:55,Nincs idő meghalni,163
+/
+Szombat,12:00,13:30,Halálos iramban 9,143
+Szombat,13:30,15:00,Space Jam: Új kezdet,115
+Szombat,15:00,16:44,Pókember: Nincs hazaút,148
+Szombat,16:44,18:13,Mátrix: Feltámadások,148
+Szombat,18:13,20:00,Dűne,155
+Szombat,20:00,22:00,Wonder Woman 1984,151
+Szombat,22:00,24:00,Előre,102
+/
+Vasárnap,12:00,13:30,Halálos iramban 9,143
+Vasárnap,13:30,15:00,Space Jam: Új kezdet,115
+Vasárnap,15:00,16:44,Pókember: Nincs hazaút,148
+Vasárnap,16:44,18:13,Mátrix: Feltámadások,148
+Vasárnap,18:13,20:00,Dűne,155
+Vasárnap,20:00,22:00,Wonder Woman 1984,151
+Vasárnap,22:00,24:00,Előre,102
