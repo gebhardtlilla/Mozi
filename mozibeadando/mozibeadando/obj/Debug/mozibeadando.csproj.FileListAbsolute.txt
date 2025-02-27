@@ -1,0 +1,7 @@
+H:\mozibeadando\mozibeadando\obj\Debug\mozibeadando.csproj.AssemblyReference.cache
+H:\mozibeadando\mozibeadando\obj\Debug\mozibeadando.csproj.CoreCompileInputs.cache
+H:\mozibeadando\mozibeadando\bin\Debug\mozibeadando.exe.config
+H:\mozibeadando\mozibeadando\bin\Debug\mozibeadando.exe
+H:\mozibeadando\mozibeadando\bin\Debug\mozibeadando.pdb
+H:\mozibeadando\mozibeadando\obj\Debug\mozibeadando.exe
+H:\mozibeadando\mozibeadando\obj\Debug\mozibeadando.pdb
