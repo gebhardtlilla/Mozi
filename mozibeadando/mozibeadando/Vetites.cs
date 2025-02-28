@@ -12,6 +12,12 @@ namespace Mozizas
         public DateTime Idopont { get; set; }
         public Terem Terem { get; set; }
 
+        /// <summary>
+        /// A vetítés konstruktor meghatározza, hogy a filmeket milyen időpontba fogják játszani és hogy melyik terembe.
+        /// </summary>
+        /// <param name="film">A film címe.</param>
+        /// <param name="idopont">Az időpont, hogy mikor játszák az adott filmet.</param>
+        /// <param name="terem">A terem, hogy melyik terembe fogják vetíteni a filmet.</param>
         public Vetites(Film film, DateTime idopont, Terem terem)
         {
             this.Film = Film;

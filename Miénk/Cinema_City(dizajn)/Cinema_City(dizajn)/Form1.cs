@@ -49,7 +49,9 @@ namespace Cinema_City_dizajn_
 
         private void button1_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Clear(); 
+            listBox1.Items.Clear();
+            checkedListBox1.Items.Clear();
+
             listBox1.Visible = true;
             checkedListBox1.Visible = true;
 
