@@ -14,9 +14,9 @@ namespace Mozizas
 
         public Vetites(Film film, DateTime idopont, Terem terem)
         {
-            Film = this.Film;
-            Idopont = this.Idopont;
-            Terem = this.Terem;
+            this.Film = Film;
+            this.Idopont = Idopont;
+            this.Terem = Terem;
         }
         
     }

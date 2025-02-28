@@ -8,27 +8,25 @@ namespace Mozizas
 {
     public class Mozi
     {
-        List<Film> filmek = Filmfajlkezelo.FilmBeolvasas("movies.txt");
-        MusorLista musorlista = new MusorLista();
+        public List<Film> filmek = Filmfajlkezelo.FilmBeolvasas("movies.txt");
+        public MusorLista musorlista = new MusorLista();
         public void feladat()
         {
             musorlista.musorlistaGeneral();
             
         }
-        public List<Film> katSzures(string sv)
+        public List<Film> katSzures(string kategoria)
         {
-            List<Film> svfilmek = new List<Film>();
-            return svfilmek;
+            return filmek.Where(f => f.Kategoria == kategoria).ToList();
         }
-        public List<Film> vetSzures(DateTime sv)
+
+        public List<Film> vetSzures(DateTime idopont)
         {
-            List<Film> svfilmek = new List<Film>();
-            return svfilmek;
+            return filmek.Where(f => f.Ev == idopont.Year).ToList();
         }
-        
 
 
 
-        
+
     }
 }

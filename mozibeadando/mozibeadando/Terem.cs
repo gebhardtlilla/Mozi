@@ -1,4 +1,4 @@
-﻿using mozibeadando;
+﻿//using mozibeadando;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +14,7 @@ namespace Mozizas
 
         public Terem(string nev)
         {
-            Nev = this.Nev;
+            this.Nev = Nev;
             Ferohely = 80;
         }
     }

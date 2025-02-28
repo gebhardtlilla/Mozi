@@ -67,9 +67,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(409, 66);
+            this.button1.Location = new System.Drawing.Point(410, 56);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(235, 47);
+            this.button1.Size = new System.Drawing.Size(196, 24);
             this.button1.TabIndex = 3;
             this.button1.Text = "Film lekérés";
             this.button1.UseVisualStyleBackColor = true;
