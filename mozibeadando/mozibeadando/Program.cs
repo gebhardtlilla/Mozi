@@ -7,6 +7,7 @@ namespace Mozizas
     {
         static void Main()
         {
+            
             Mozi mozi = new Mozi();
             mozi.feladat();
             Console.ReadLine();

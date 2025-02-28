@@ -13,7 +13,8 @@ namespace Mozizas
         public List<Terem> termek;
 
         /// <summary>
-        /// A musorlista konstruktor létrehoz két listát. Az első a vetítések listája. A második pedig a termeké, ez adja meg a termek nevét.
+        /// Letrehoz egy Vetites tipusu vetitesek objektumot
+        /// Letrheot 3 db Terem tipusu termek objektumot.
         /// </summary>
         public MusorLista()
         {

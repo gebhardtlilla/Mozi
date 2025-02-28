@@ -9,6 +9,12 @@ namespace Mozizas
 {
     public class Filmfajlkezelo
     {
+
+        /// <summary>
+        /// Beolassa a filmek filet, majd elemei a konstruktor alapjan feltolti a Film tipusu filmek listaba.
+        /// </summary>
+        /// <param name="path">A megadott utvonala a beolvasando filenak.</param>
+        /// <returns>Visszaadja a filmek listat a feltoltott elemekkel.</returns>
         public static List<Film> FilmBeolvasas(string path)
         {
             List<Film> filmek = new List<Film>();

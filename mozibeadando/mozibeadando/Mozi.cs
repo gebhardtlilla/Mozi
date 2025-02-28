@@ -10,16 +10,32 @@ namespace Mozizas
     {
         public List<Film> filmek = Filmfajlkezelo.FilmBeolvasas("movies.txt");
         public MusorLista musorlista = new MusorLista();
+        /// <summary>
+        /// Legenerál egy új Musorlista tipusu musorlistat.
+        /// </summary>
+
         public void feladat()
         {
             musorlista.musorlistaGeneral();
             
         }
+
+        /// <summary>
+        /// Megszuri tombfuggveny segitsegevel a parameterben megadott fuggveny (kategoria) alapjan.
+        /// </summary>
+        /// <param name="kategoria">a film kategoriaja.</param>
+        /// <returns>vissza ad egy kategoria szerint megszurt filmek listat.</returns>
         public List<Film> katSzures(string kategoria)
         {
             return filmek.Where(f => f.Kategoria == kategoria).ToList();
         }
 
+
+        /// <summary>
+        /// Megszuri tombfuggveny segitsegevel a parameterben megadott fuggveny (idopont) alapjan.
+        /// </summary>
+        /// <param name="idopont">a film lejatszasanak idopontja.</param>
+        /// <returns>vissza ad egy idopont szerint megszurt filmek listat.</returns>
         public List<Film> vetSzures(DateTime idopont)
         {
             return filmek.Where(f => f.Ev == idopont.Year).ToList();
