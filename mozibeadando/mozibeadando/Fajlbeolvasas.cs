@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Mozizas
 {
-    public class Filmfajlkezelo
+    public class Fajlbeolvasas
     {
 
         /// <summary>

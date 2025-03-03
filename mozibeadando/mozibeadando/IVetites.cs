@@ -9,7 +9,7 @@ namespace Mozizas
 {
     public interface IVetites
     {
-        Film Film { get; set; }
+        Film FilmCim { get; set; }
         DateTime Idopont { get; set; }
         Terem Terem { get; set; }
     }

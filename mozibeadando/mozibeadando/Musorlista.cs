@@ -13,19 +13,24 @@ namespace Mozizas
         public List<Terem> termek;
 
         /// <summary>
-        /// Letrehoz egy Vetites tipusu vetitesek objektumot
-        /// Letrheot 3 db Terem tipusu termek objektumot.
+        /// Letrehoz egy Vetites tipusu vetitesek Listat
+        /// Letrehoz 5 db Terem tipusu termek objektumot.
         /// </summary>
         public MusorLista()
         {
             vetitesek = new List<Vetites>();
-            termek = new List<Terem>(){new Terem("1. Terem"), new Terem("2. Terem"), new Terem("3. Terem")};
+            termek = new List<Terem>();
+            new Terem("1. Terem");
+            new Terem("2. Terem");
+            new Terem("3. Terem");
+            new Terem("4. Terem");
+            new Terem("5. Terem");
         }
-        public void musorlistaGeneral()
-        {
-            
-        }
-        
+        //public void musorlistaGeneralas()
+        //{
+
+        //}
+
 
     }
 }

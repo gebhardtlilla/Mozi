@@ -8,18 +8,25 @@ namespace Mozizas
 {
     public class Mozi
     {
-        public List<Film> filmek = Filmfajlkezelo.FilmBeolvasas("movies.txt");
+        public List<Film> filmek = Fajlbeolvasas.FilmBeolvasas("movies.txt");
         public MusorLista musorlista = new MusorLista();
         /// <summary>
         /// Legenerál egy új Musorlista tipusu musorlistat.
         /// </summary>
 
-        public void feladat()
-        {
-            musorlista.musorlistaGeneral();
-            
-        }
 
+
+
+
+
+        
+        //public void MusortGeneral() JO LESZ KI KELL SZEDNI A KOMMENTBOL!!
+        //{
+        //    musorlista.musorlistaGeneralas();
+
+        //}
+
+        /*
         /// <summary>
         /// Megszuri tombfuggveny segitsegevel a parameterben megadott fuggveny (kategoria) alapjan.
         /// </summary>
@@ -41,7 +48,7 @@ namespace Mozizas
             return filmek.Where(f => f.Ev == idopont.Year).ToList();
         }
 
-
+        */
 
 
     }

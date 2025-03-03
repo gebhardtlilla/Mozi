@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Film.cs" />
-    <Compile Include="Filmfajlkezelo.cs" />
+    <Compile Include="Fajlbeolvasas.cs" />
     <Compile Include="Futtathato.cs" />
     <Compile Include="IFilm.cs" />
     <Compile Include="ITerem.cs" />

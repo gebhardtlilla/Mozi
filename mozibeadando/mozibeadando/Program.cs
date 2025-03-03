@@ -7,10 +7,10 @@ namespace Mozizas
     {
         static void Main()
         {
-            
+
             Mozi mozi = new Mozi();
-            mozi.feladat();
-            Console.ReadLine();
+            //mozi.MusortGeneral(); JO LESZ KI KELL SZEDNI A KOMMENTBOL!!
+            Console.ReadKey();
         }
     }
 }

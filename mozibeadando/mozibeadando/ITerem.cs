@@ -8,7 +8,7 @@ namespace Mozizas
 {
     public interface ITerem
     {
-        string Nev { get; set; }
-        int Ferohely { get; set; }
+        string TeremNev { get; set; }
+        int TeremFerohely { get; set; }
     }
 }
