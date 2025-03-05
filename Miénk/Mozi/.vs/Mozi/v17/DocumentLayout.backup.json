@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "H:\\12\\Mozi\\Mi\u00E9nk\\Mozi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6D3A224-3794-489E-B62A-D5BD7F6D479A}|Mozi\\Mozi.csproj|H:\\12\\Mozi\\Mi\u00E9nk\\Mozi\\mozi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6D3A224-3794-489E-B62A-D5BD7F6D479A}|Mozi\\Mozi.csproj|solutionrelative:mozi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6D3A224-3794-489E-B62A-D5BD7F6D479A}|Mozi\\Mozi.csproj|h:\\12\\mozi\\mi\u00E9nk\\mozi\\mozi\\filmek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6D3A224-3794-489E-B62A-D5BD7F6D479A}|Mozi\\Mozi.csproj|solutionrelative:mozi\\filmek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6D3A224-3794-489E-B62A-D5BD7F6D479A}|Mozi\\Mozi.csproj|h:\\12\\mozi\\mi\u00E9nk\\mozi\\mozi\\futtathato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6D3A224-3794-489E-B62A-D5BD7F6D479A}|Mozi\\Mozi.csproj|solutionrelative:mozi\\futtathato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6D3A224-3794-489E-B62A-D5BD7F6D479A}|Mozi\\Mozi.csproj|H:\\12\\Mozi\\Mi\u00E9nk\\Mozi\\mozi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D3A224-3794-489E-B62A-D5BD7F6D479A}|Mozi\\Mozi.csproj|solutionrelative:mozi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6D3A224-3794-489E-B62A-D5BD7F6D479A}|Mozi\\Mozi.csproj|H:\\12\\Mozi\\Mi\u00E9nk\\Mozi\\mozi\\napok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6D3A224-3794-489E-B62A-D5BD7F6D479A}|Mozi\\Mozi.csproj|solutionrelative:mozi\\napok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D3A224-3794-489E-B62A-D5BD7F6D479A}|Mozi\\Mozi.csproj|h:\\12\\mozi\\mi\u00E9nk\\mozi\\mozi\\futtathato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D3A224-3794-489E-B62A-D5BD7F6D479A}|Mozi\\Mozi.csproj|solutionrelative:mozi\\futtathato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Futtathato.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\Mi\u00E9nk\\Mozi\\Mozi\\Futtathato.cs",
               "RelativeDocumentMoniker": "Mozi\\Futtathato.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Napok.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\Mi\u00E9nk\\Mozi\\Mozi\\Napok.cs",
               "RelativeDocumentMoniker": "Mozi\\Napok.cs",
@@ -56,26 +56,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Filmek.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\Mi\u00E9nk\\Mozi\\Mozi\\Filmek.cs",
               "RelativeDocumentMoniker": "Mozi\\Filmek.cs",
-              "ToolTip": "H:\\12\\Mozi\\Mi\u00E9nk\\Mozi\\Mozi\\Filmek.cs*",
-              "RelativeToolTip": "Mozi\\Filmek.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "ToolTip": "H:\\12\\Mozi\\Mi\u00E9nk\\Mozi\\Mozi\\Filmek.cs",
+              "RelativeToolTip": "Mozi\\Filmek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T12:17:41.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\Mi\u00E9nk\\Mozi\\Mozi\\Program.cs",
               "RelativeDocumentMoniker": "Mozi\\Program.cs",
-              "ToolTip": "H:\\12\\Mozi\\Mi\u00E9nk\\Mozi\\Mozi\\Program.cs*",
-              "RelativeToolTip": "Mozi\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "ToolTip": "H:\\12\\Mozi\\Mi\u00E9nk\\Mozi\\Mozi\\Program.cs",
+              "RelativeToolTip": "Mozi\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T12:14:06.84Z",
               "EditorCaption": ""

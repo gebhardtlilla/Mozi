@@ -21,10 +21,10 @@ namespace Mozizas
             StreamReader f = new StreamReader(path);
             while (!f.EndOfStream)
             {
-                string[] line = f.ReadLine().Split(';');
-                string sv = line[3].Replace(" ", "");
+                string[] st = f.ReadLine().Split(';');
+                string sv = st[3].Replace(" ", "");
                 string[] szereplok = sv.Split(',');
-                filmek.Add(new Film(line[0], line[6], line[2], line[5], Convert.ToInt32(line[1]), szereplok, Convert.ToInt32(line[4])));
+                filmek.Add(new Film(st[0], st[6], st[2], st[5], Convert.ToInt32(st[1]), szereplok, Convert.ToInt32(st[4]), st[7]));
             }
             return filmek;
         }

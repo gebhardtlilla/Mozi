@@ -17,6 +17,9 @@ namespace Mozizas
         public string[] Szereplok { get; set; }
         public int Ev { get; set; }
 
+        public string Angolnev { get; set; }
+
+
         /// <summary>
         /// A filmeket tartalmazó file-ból beolvasandó paraméterek definiálása, getter, settereik
         /// beállításával. 
@@ -28,7 +31,7 @@ namespace Mozizas
         /// <param name="ido">A film hossza (percben)</param>
         /// <param name="szereplok">A film szereploi</param> 
         /// <param name="ev">A film megjelenesi eve</param>
-        public Film(string nev, string kategoria, string rendezo, string leiras, int ido, string[] szereplok, int ev)
+        public Film(string nev, string kategoria, string rendezo, string leiras, int ido, string[] szereplok, int ev, string angolnev)
         {
             Nev = nev;
             Kategoria = kategoria;
@@ -37,6 +40,7 @@ namespace Mozizas
             Ido = ido;
             Szereplok = szereplok;
             Ev = ev;
+            Angolnev = angolnev;
         }
 
         /// <summary>

@@ -40,7 +40,8 @@ namespace Cinema_City_dizajn_
             
             foreach (var film in mozi.filmek)
             {
-                listBox1.Items.Add(film.Nev);  
+               // listBox1.Items.Clear();
+                listBox1.Items.Add(film.Angolnev);  
             }
 
            
@@ -58,7 +59,7 @@ namespace Cinema_City_dizajn_
             
             foreach (var film in mozi.filmek)
             {
-                listBox1.Items.Add(film.Nev);
+                listBox1.Items.Add(film.Angolnev);
             }
 
             
