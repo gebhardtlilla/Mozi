@@ -3,8 +3,31 @@
   "WorkspaceRootPath": "H:\\12\\Mozi\\Mi\u00E9nk\\Cinema_City(dizajn)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02DA0751-F680-437D-A19F-9AA7FC3128B3}|Cinema_City(dizajn)\\Cinema_City(dizajn).csproj|H:\\12\\Mozi\\Mi\u00E9nk\\Cinema_City(dizajn)\\cinema_city(dizajn)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02DA0751-F680-437D-A19F-9AA7FC3128B3}|Cinema_City(dizajn)\\Cinema_City(dizajn).csproj|solutionrelative:cinema_city(dizajn)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\terem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\iterem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\vetites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\musorlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\mozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\ivetites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\ifilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\futtathato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -13,35 +36,12 @@
       "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\fajlbeolvasas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{02DA0751-F680-437D-A19F-9AA7FC3128B3}|Cinema_City(dizajn)\\Cinema_City(dizajn).csproj|h:\\12\\mozi\\mi\u00E9nk\\cinema_city(dizajn)\\cinema_city(dizajn)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DA0751-F680-437D-A19F-9AA7FC3128B3}|Cinema_City(dizajn)\\Cinema_City(dizajn).csproj|solutionrelative:cinema_city(dizajn)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02DA0751-F680-437D-A19F-9AA7FC3128B3}|Cinema_City(dizajn)\\Cinema_City(dizajn).csproj|H:\\12\\Mozi\\Mi\u00E9nk\\Cinema_City(dizajn)\\cinema_city(dizajn)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02DA0751-F680-437D-A19F-9AA7FC3128B3}|Cinema_City(dizajn)\\Cinema_City(dizajn).csproj|solutionrelative:cinema_city(dizajn)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\mozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\futtathato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\ifilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\musorlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\terem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\vetites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\ivetites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2ADA500-DFB4-4AE3-AA95-660D00503FFF}|..\\..\\mozibeadando\\mozibeadando\\mozibeadando.csproj|h:\\12\\mozi\\mozibeadando\\mozibeadando\\iterem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,71 +51,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Musorlista.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Musorlista.cs",
               "RelativeDocumentMoniker": "..\\..\\mozibeadando\\mozibeadando\\Musorlista.cs",
               "ToolTip": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Musorlista.cs",
               "RelativeToolTip": "..\\..\\mozibeadando\\mozibeadando\\Musorlista.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T10:13:17.67Z"
+              "WhenOpened": "2025-02-28T10:13:17.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\mozibeadando\\mozibeadando\\Program.cs",
               "ToolTip": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Program.cs",
               "RelativeToolTip": "..\\..\\mozibeadando\\mozibeadando\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T10:06:53.521Z"
+              "WhenOpened": "2025-02-28T10:06:53.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Terem.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Terem.cs",
               "RelativeDocumentMoniker": "..\\..\\mozibeadando\\mozibeadando\\Terem.cs",
               "ToolTip": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Terem.cs",
               "RelativeToolTip": "..\\..\\mozibeadando\\mozibeadando\\Terem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:03:24.555Z"
+              "WhenOpened": "2025-02-27T13:03:24.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Vetites.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Vetites.cs",
               "RelativeDocumentMoniker": "..\\..\\mozibeadando\\mozibeadando\\Vetites.cs",
               "ToolTip": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Vetites.cs",
               "RelativeToolTip": "..\\..\\mozibeadando\\mozibeadando\\Vetites.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T12:58:27.232Z"
+              "WhenOpened": "2025-02-27T12:58:27.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "ITerem.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\ITerem.cs",
               "RelativeDocumentMoniker": "..\\..\\mozibeadando\\mozibeadando\\ITerem.cs",
               "ToolTip": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\ITerem.cs",
               "RelativeToolTip": "..\\..\\mozibeadando\\mozibeadando\\ITerem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:00:34.731Z"
+              "WhenOpened": "2025-02-27T13:00:34.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "IVetites.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\IVetites.cs",
               "RelativeDocumentMoniker": "..\\..\\mozibeadando\\mozibeadando\\IVetites.cs",
@@ -123,23 +128,25 @@
               "RelativeToolTip": "..\\..\\mozibeadando\\mozibeadando\\IVetites.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T12:56:31.832Z"
+              "WhenOpened": "2025-02-27T12:56:31.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IFilm.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\IFilm.cs",
               "RelativeDocumentMoniker": "..\\..\\mozibeadando\\mozibeadando\\IFilm.cs",
               "ToolTip": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\IFilm.cs",
               "RelativeToolTip": "..\\..\\mozibeadando\\mozibeadando\\IFilm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T12:54:08.429Z"
+              "WhenOpened": "2025-02-27T12:54:08.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Futtathato.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Futtathato.cs",
               "RelativeDocumentMoniker": "..\\..\\mozibeadando\\mozibeadando\\Futtathato.cs",
@@ -152,67 +159,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Film.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Film.cs",
               "RelativeDocumentMoniker": "..\\..\\mozibeadando\\mozibeadando\\Film.cs",
               "ToolTip": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Film.cs",
               "RelativeToolTip": "..\\..\\mozibeadando\\mozibeadando\\Film.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T12:15:09.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Fajlbeolvasas.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Fajlbeolvasas.cs",
               "RelativeDocumentMoniker": "..\\..\\mozibeadando\\mozibeadando\\Fajlbeolvasas.cs",
               "ToolTip": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Fajlbeolvasas.cs",
               "RelativeToolTip": "..\\..\\mozibeadando\\mozibeadando\\Fajlbeolvasas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T12:14:58.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Mozi.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Mozi.cs",
               "RelativeDocumentMoniker": "..\\..\\mozibeadando\\mozibeadando\\Mozi.cs",
               "ToolTip": "H:\\12\\Mozi\\mozibeadando\\mozibeadando\\Mozi.cs",
               "RelativeToolTip": "..\\..\\mozibeadando\\mozibeadando\\Mozi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T12:12:15.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Form1.cs",
               "DocumentMoniker": "H:\\12\\Mozi\\Mi\u00E9nk\\Cinema_City(dizajn)\\Cinema_City(dizajn)\\Form1.cs",
               "RelativeDocumentMoniker": "Cinema_City(dizajn)\\Form1.cs",
               "ToolTip": "H:\\12\\Mozi\\Mi\u00E9nk\\Cinema_City(dizajn)\\Cinema_City(dizajn)\\Form1.cs",
               "RelativeToolTip": "Cinema_City(dizajn)\\Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T12:11:44.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "H:\\12\\Mozi\\Mi\u00E9nk\\Cinema_City(dizajn)\\Cinema_City(dizajn)\\Form1.cs",
               "RelativeDocumentMoniker": "Cinema_City(dizajn)\\Form1.cs",
               "ToolTip": "H:\\12\\Mozi\\Mi\u00E9nk\\Cinema_City(dizajn)\\Cinema_City(dizajn)\\Form1.cs [Design]",
               "RelativeToolTip": "Cinema_City(dizajn)\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:52:23.397Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-20T12:52:23.397Z"
             }
           ]
         }
